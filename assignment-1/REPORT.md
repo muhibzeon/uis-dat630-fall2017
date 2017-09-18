@@ -4,11 +4,11 @@ Please follow the provided structure carefully and complete all of the sections 
 
 ## Personal information
 
-**Name**: *TODO*
+**Name**: *Mohammad MohIMENUL Muhib*
 
 List the GitHub usernames of your team here. If you are working alone, then write your GitHub username as the team leader and leave the list of additional team members empty.
 
-**Team leader**: *TODO*
+**Team leader**: *vladmaksyk*
 
 **Additional team members**: *TODO*
 
